@@ -8,6 +8,7 @@ const Nav = styled.nav`
 	position: fixed;
 	top: 0;
 	left: 0;
+	z-index: 100;
 `;
 
 const Container = styled.div`
